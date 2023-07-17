@@ -184,7 +184,7 @@ on:
         default: "angel"
         type: choice
         options:
-          - angel
+          - farizz
           - yourname
 
 env:
